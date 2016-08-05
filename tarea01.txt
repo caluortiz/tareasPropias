@@ -1,2 +1,2 @@
 Mi primer archivo
-Primea linea desde github.com
+Primera linea desde github.com
